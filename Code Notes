@@ -49,7 +49,7 @@ class MyApp extends StatelessWidget {
                       crossAxisAlignment: CrossAxisAlignment.start,
                       children: [
                         Padding(
-                          padding: EdgeInsets.only(left: 8.0), // Adjusted padding here
+                          padding: EdgeInsets.only(left: 8.0),
                           child: Text(
                             'Title',
                             style: TextStyle(
@@ -60,7 +60,7 @@ class MyApp extends StatelessWidget {
                         ),
                         SizedBox(height: 0.0),
                         Padding(
-                          padding: EdgeInsets.only(left: 8.0), // Adjusted padding here
+                          padding: EdgeInsets.only(left: 8.0),
                           child: Text(
                             'Hello world',
                             style: TextStyle(
@@ -84,7 +84,7 @@ class MyApp extends StatelessWidget {
                       crossAxisAlignment: CrossAxisAlignment.start,
                       children: [
                         Padding(
-                          padding: EdgeInsets.only(left: 8.0), // Adjusted padding here
+                          padding: EdgeInsets.only(left: 8.0),
                           child: Text(
                             'Title',
                             style: TextStyle(
@@ -95,7 +95,7 @@ class MyApp extends StatelessWidget {
                         ),
                         SizedBox(height: 0.0),
                         Padding(
-                          padding: EdgeInsets.only(left: 8.0), // Adjusted padding here
+                          padding: EdgeInsets.only(left: 8.0),
                           child: Text(
                             'Hello world',
                             style: TextStyle(
@@ -118,7 +118,7 @@ class MyApp extends StatelessWidget {
                       crossAxisAlignment: CrossAxisAlignment.start,
                       children: [
                         Padding(
-                          padding: EdgeInsets.only(left: 8.0), // Adjusted padding here
+                          padding: EdgeInsets.only(left: 8.0),
                           child: Text(
                             'Title',
                             style: TextStyle(
@@ -129,7 +129,7 @@ class MyApp extends StatelessWidget {
                         ),
                         SizedBox(height: 0.0),
                         Padding(
-                          padding: EdgeInsets.only(left: 8.0), // Adjusted padding here
+                          padding: EdgeInsets.only(left: 8.0),
                           child: Text(
                             'Hello world',
                             style: TextStyle(
